@@ -1,2 +1,2 @@
 import numpy as np
-import Pandas as pd
+import pandas as pd
