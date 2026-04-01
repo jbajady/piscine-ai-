@@ -18,7 +18,7 @@ This project aims to:
         └── ex00/
             ├── venv/
             ├── Notebook_ex00.ipynb
-            └── requirements.txt
+            └── requirements.txtV
 
 ------------------------------------------------------------------------
 
@@ -107,3 +107,5 @@ print("Buy the dip ?")
 -   Learn Jupyter Notebook usage\
 -   Practice project organization\
 -   Work in a professional Python workflow
+
+
