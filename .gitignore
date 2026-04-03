@@ -18,3 +18,4 @@ __pycache__/
 .env
 .env.*
 
+pandas/ex02/data/household_power_consumption.txt
